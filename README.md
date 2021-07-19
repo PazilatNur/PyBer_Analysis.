@@ -21,4 +21,11 @@ We have created a line chart to visulize the weekly trends of total fare by city
 
 Based on the analysis, here are the recomendations:
 
-1. 
+1. Run a A/B test to identfy the reason for low ride demands in rural. Can we increase number of rides if we drop the fare amount per ride by certain percent? 
+    - If test results confirm our hypothesis, we can increase total weekly fare by increasing demands and slightly lowering fare per ride
+    - If not, fare can stay at the current value to maintain rural profitability.
+
+2. Opposite to rural suggestions, we can further increase Urband total fare by slightly increasing the fare, given we have the lowest fare per ride. 
+
+
+3. Between Mar and April total ride fare per week dropped significantly more for Suburban than other city types. During this time we can adjust fare per ride specifically to incentivize more people to take rides.
